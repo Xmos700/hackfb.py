@@ -1,8 +1,9 @@
 # hackfb.py
-Hack FB SETAN
+Hack FB 2023 30jul.
+# Welcome to menu! 
 #!/usr/bin/python 
  # coding=utf-8 
- # pashakun.com 
+ # Persatuan kont!!! syntax python!!! . 
   
  #Import module 
  import os,sys,time,datetime,random,hashlib,re,threading,json,getpass,urllib,cookielib 
